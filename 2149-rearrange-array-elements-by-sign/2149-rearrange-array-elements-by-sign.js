@@ -10,20 +10,18 @@ var rearrangeArray = function(nums) {
     let negIndex = 1; 
     let arr = new Array(n)
 
-    for(let i = 0; i < n; i++) {
-        let num = nums[i]; 
 
+    for(let num of nums) {
         // if num is greater than negative value, increase by 2
         // because of index position: posIndex = 0, 2, 4
         // and negIndex = 1, 3, 5, we will replace the negative value with negIndex
         if(num > 0) {
             arr[posIndex] = num; 
-            posIndex += 2; 
+            posIndex += 2;
         } else {
             arr[negIndex] = num; 
             negIndex += 2; 
         }
     }
-
     return arr
 };
