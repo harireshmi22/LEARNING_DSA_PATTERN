@@ -5,9 +5,8 @@
 var getRow = function(rowIndex) {
     const triangle = []; 
     triangle.push([1]); 
-    let count = 0; 
 
-    for(let i = 1; i < rowIndex + 1; i++) {
+    for(let i = 1; i <= rowIndex + 1; i++) {
         const prevRow = triangle[i - 1]; 
         const currRow = []; 
         currRow.push(1); 
@@ -19,10 +18,9 @@ var getRow = function(rowIndex) {
 
         currRow.push(1); 
         triangle.push(currRow); 
-        count++
     }
 
-    return triangle[count]; 
+    return triangle[rowIndex]; 
 };
 
 // function getRowIndex(rowIndex) {
