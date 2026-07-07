@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0118-pascals-triangle) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0977-squares-of-a-sorted-array) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0018-4sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
