@@ -3,9 +3,9 @@
  * @return {number}
  */
 var maxArea = function(height) {
-    let n = height.length;
+    let n = height.length - 1; 
     let i = 0; 
-    let j = n - 1;
+    let j = n;
     let maxArea = 0; 
 
     while(i < j) {
