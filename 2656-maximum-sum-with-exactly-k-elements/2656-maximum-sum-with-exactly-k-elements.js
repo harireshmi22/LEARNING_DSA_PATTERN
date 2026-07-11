@@ -3,6 +3,8 @@
  * @param {number} k
  * @return {number}
  */
+
+ // Greedy simulation 
 var maximizeSum = function(nums, k) {
     // first humne nums se max number nikala
     let max = Math.max(...nums)
