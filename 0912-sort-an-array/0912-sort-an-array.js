@@ -4,6 +4,7 @@
  */
 var sortArray = function (nums) {
 
+    // merge karne ke liye code 
     function merge(arr, temp, left, mid, right) {
         let i = left;
         let j = mid + 1;
@@ -22,6 +23,8 @@ var sortArray = function (nums) {
             temp[k++] = arr[i++];
         }
 
+        // bache hue elements dekhne ke liye
+        
         while (j <= right) {
             temp[k++] = arr[j++];
         }
