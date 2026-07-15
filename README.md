@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0643-maximum-average-subarray-i) |
 | [0912-sort-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0643-maximum-average-subarray-i) |
 ## Divide and Conquer
 |  |
 | ------- |
