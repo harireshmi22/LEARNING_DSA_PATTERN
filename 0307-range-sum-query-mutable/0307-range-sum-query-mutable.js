@@ -2,16 +2,34 @@
  * @param {number[]} nums
  */
 var NumArray = function(nums) {
-    // Original nums ko v save kar rhe hai taaki update ki waqt purani value mil sake 
-    this.nums = nums; 
-    let sum = 0;
-    this.prefix = []; 
-    
-    for(let i = 0; i < nums.length; i++) {
-        sum += nums[i]
-        this.prefix.push(sum)
-    }
+    this.n = nums.length; 
+    // agar n 0 ke equal hota hai toh matlab tree nhi bana hai
+    if(this.n === 0) return 0; 
+    this.tree = new Array(4 * this.n).fill(0); 
+    // tree banane ke liye function call kiya
+    // aur saman diyya 
+    this.buildTree(nums, 1, 0, this.n - 1); 
 };
+
+NumArray.prototype.buildTree = function(nums, node, start, end) {
+    // base case: agar mera start index aur end index barabar hote hai toh 
+    // matlab yeh hai ki leaf node me hai 
+    if(start === end) {
+        this.tree[node] = nums[start] 
+        return; 
+    }
+
+    // mid value nikalkar tree ko 2 hisso me divide kar denge
+    let mid = Math.floor(start + (end - start) / 2); 
+
+    // left hisse ke liye
+    this.buildTree(nums, 2 * node, start, mid); 
+    this.buildTree(nums, 2 * node + 1, mid + 1, end); 
+
+    // KYUN? dono bacho ka tree banane ke baad, Manager (current node) ka 
+    // sum = left Child + Right Child
+    this.tree[node] = this.tree[2 * node] + this.tree[2 *  node + 1]; 
+}
 
 /** 
  * @param {number} index 
@@ -19,22 +37,22 @@ var NumArray = function(nums) {
  * @return {void}
  */
 NumArray.prototype.update = function(index, val) {
-    // 1. pata kari ki uss jagah pehle kya value hai 
-    let oldValue = this.nums[index]
-
-    // 2. Calculate karo ki kitne ka farq difference aaya hai 
-    let diff = val - oldValue; 
-
-    // 3. Original array me value ko update kar do taaki agli baar 
-    // ke liye yaad rahe 
-    this.nums[index] = val; 
-
-    // 4. us index se lekar aakhri tak ke saare prefix sume me 
-    // diff ko add kardo
-    for(let i = index; i < this.prefix.length; i++) {
-        this.prefix[i] += diff; 
-    }
+    this.updateTree(1, 0, this.n - 1, index, val); 
 };
+
+NumArray.prototype.updateTree = function(node, start, end, index, val) {
+    if(start === end) { 
+        this.tree[node] = val; 
+        return; 
+    }
+
+    let mid = Math.floor(start + (end - start) / 2); 
+
+    if(index <= mid) this.updateTree(node * 2, start, mid, index, val); 
+    else this.updateTree(node * 2 + 1, mid + 1, end, index, val);
+
+    return this.tree[node] = this.tree[2 * node] + this.tree[2 * node + 1];  
+}
 
 /** 
  * @param {number} left 
@@ -42,10 +60,28 @@ NumArray.prototype.update = function(index, val) {
  * @return {number}
  */
 NumArray.prototype.sumRange = function(left, right) {
-    if(left === 0) return this.prefix[right]; 
-
-    return this.prefix[right] - this.prefix[left - 1]; 
+    return this.queryTree(1, 0, this.n - 1, left, right)
 };
+
+NumArray.prototype.queryTree = function (node, start, end, left, right) {
+    // case 1: No overlap (bilkul alag range) 
+    // kyun? agar poori range hamari query se bahar hai, toh waha se sum 0 milega
+    if(right < start || end < left) {
+        return 0; 
+    }
+
+    // Case 2: Total Overlap (poora manager hamari range ki andar hai)
+    if(left <= start && end <= right) {
+        return this.tree[node]; 
+    }
+
+    // case 3: Partial Overlap (aadha manager kaam ka hai, aadha nhi) 
+    let mid = Math.floor(start + (end - start) / 2); 
+    let leftSum = this.queryTree(node * 2, start, mid, left, right); 
+    let rightSum = this.queryTree(node * 2 + 1, mid + 1, end, left, right);
+
+    return leftSum + rightSum; 
+}
 
 /** 
  * Your NumArray object will be instantiated and called as such:
