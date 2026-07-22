@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0307-range-sum-query-mutable) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0525-contiguous-array) |
