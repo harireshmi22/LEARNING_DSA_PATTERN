@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0307-range-sum-query-mutable) |
 | [0523-continuous-subarray-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0525-contiguous-array) |
+| [0528-random-pick-with-weight](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0643-maximum-average-subarray-i) |
 | [0912-sort-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0912-sort-an-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0528-random-pick-with-weight) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Combinatorics
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0528-random-pick-with-weight](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0528-random-pick-with-weight) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0525-contiguous-array) |
+| [0528-random-pick-with-weight](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
 |  |
@@ -190,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0307-range-sum-query-mutable) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
