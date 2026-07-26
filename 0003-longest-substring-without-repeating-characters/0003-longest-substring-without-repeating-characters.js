@@ -2,29 +2,24 @@
  * @param {string} s
  * @return {number}
  */
-var lengthOfLongestSubstring = function(s) {
-  let left = 0; 
-  let maxLength = 0; 
 
-  for(let right = 0; right < s.length; right++) {
-    // check if s[right] already exist in the window 
-    while(isDuplicate(s, left, right)) {
-        left++; 
-    } 
+ // Using sliding window with the help of set 
+ // set for fast searching duplicate 
+var lengthOfLongestSubstring = function (s) {
+    let set = new Set();
+    let left = 0;
+    let maxLength = 0;
 
-    maxLength = Math.max(maxLength, right - left + 1); 
-  }  
+    for (let i = 0; i < s.length; i++) {
 
-  return maxLength; 
-};
-
-
-function isDuplicate(s, left, right) {
-    for(let i = left; i < right; i++) {
-        if(s[i] === s[right]){
-            return true; 
+        while (set.has(s[i])) {
+            set.delete(s[left]);
+            left++
         }
+        set.add(s[i]);
+
+        maxLength = Math.max(maxLength, i - left + 1)
     }
 
-    return false; 
-}
+    return maxLength;
+};
