@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0724-find-pivot-index) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/3364-minimum-positive-sum-subarray) |
