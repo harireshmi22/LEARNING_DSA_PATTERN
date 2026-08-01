@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0078-subsets) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0075-sort-colors) |
 | [0912-sort-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0977-squares-of-a-sorted-array) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
