@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2951-find-the-peaks](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2951-find-the-peaks) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
@@ -245,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0090-subsets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
