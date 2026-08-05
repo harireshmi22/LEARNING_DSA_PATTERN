@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0063-unique-paths-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0528-random-pick-with-weight](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0528-random-pick-with-weight) |
 | [0713-subarray-product-less-than-k](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0713-subarray-product-less-than-k) |
+| [1901-find-a-peak-element-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1901-find-a-peak-element-ii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Sorting
 |  |
