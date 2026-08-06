@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0090-subsets-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0074-search-a-2d-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0528-random-pick-with-weight](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0528-random-pick-with-weight) |
