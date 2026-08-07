@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0042-trapping-rain-water) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0037-sudoku-solver) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0525-contiguous-array) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0240-search-a-2d-matrix-ii) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0046-permutations) |
@@ -264,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2951-find-the-peaks) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
