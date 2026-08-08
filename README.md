@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0075-sort-colors) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0090-subsets-ii) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
