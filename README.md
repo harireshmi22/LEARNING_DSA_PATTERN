@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0063-unique-paths-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0344-reverse-string) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0040-combination-sum-ii) |
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0037-sudoku-solver) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
