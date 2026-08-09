@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0523-continuous-subarray-sum) |
@@ -302,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0022-generate-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
