@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0326-power-of-three) |
 | [0523-continuous-subarray-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0528-random-pick-with-weight) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -310,4 +311,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
