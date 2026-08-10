@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0119-pascals-triangle-ii) |
+| [1143-longest-common-subsequence](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1143-longest-common-subsequence](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1143-longest-common-subsequence) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Hash Table
 |  |
@@ -321,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0070-climbing-stairs) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
