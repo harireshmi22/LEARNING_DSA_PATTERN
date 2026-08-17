@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0119-pascals-triangle-ii) |
 | [0377-combination-sum-iv](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0377-combination-sum-iv) |
 | [0509-fibonacci-number](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
