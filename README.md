@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0213-house-robber-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0239-sliding-window-maximum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0119-pascals-triangle-ii) |
+| [0213-house-robber-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0213-house-robber-ii) |
 | [0377-combination-sum-iv](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0377-combination-sum-iv) |
 | [0509-fibonacci-number](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0746-min-cost-climbing-stairs) |
