@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0977-squares-of-a-sorted-array) |
@@ -212,10 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
