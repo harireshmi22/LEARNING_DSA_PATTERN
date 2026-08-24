@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0307-range-sum-query-mutable) |
+| [0349-intersection-of-two-arrays](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0403-frog-jump) |
 | [0496-next-greater-element-i](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0496-next-greater-element-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0349-intersection-of-two-arrays) |
 | [0556-next-greater-element-iii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0556-next-greater-element-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0037-sudoku-solver) |
+| [0349-intersection-of-two-arrays](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0523-continuous-subarray-sum) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0349-intersection-of-two-arrays) |
 | [0528-random-pick-with-weight](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0704-binary-search) |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
