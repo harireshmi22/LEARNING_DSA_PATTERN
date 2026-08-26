@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0403-frog-jump) |
 | [0496-next-greater-element-i](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0528-random-pick-with-weight) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1143-longest-common-subsequence) |
 ## Math
@@ -377,8 +379,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
