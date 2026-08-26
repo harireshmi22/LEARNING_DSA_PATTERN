@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2951-find-the-peaks](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2951-find-the-peaks) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/3364-minimum-positive-sum-subarray) |
+| [3592-inverse-coin-change](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/3592-inverse-coin-change) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1143-longest-common-subsequence) |
+| [3592-inverse-coin-change](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/3592-inverse-coin-change) |
 ## Math
 |  |
 | ------- |
