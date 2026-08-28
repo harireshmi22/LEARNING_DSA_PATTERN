@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0016-3sum-closest) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0062-unique-paths) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0038-count-and-say) |
@@ -391,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0518-coin-change-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
