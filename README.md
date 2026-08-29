@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0912-sort-an-array) |
+| [0931-minimum-falling-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1002-find-common-characters) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1504-count-submatrices-with-all-ones](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1504-count-submatrices-with-all-ones) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0240-search-a-2d-matrix-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1504-count-submatrices-with-all-ones](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1504-count-submatrices-with-all-ones) |
 | [1901-find-a-peak-element-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1901-find-a-peak-element-ii) |
