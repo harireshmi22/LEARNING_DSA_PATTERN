@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0078-subsets) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0119-pascals-triangle-ii) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1901-find-a-peak-element-ii) |
