@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1002-find-common-characters) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1504-count-submatrices-with-all-ones](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1504-count-submatrices-with-all-ones) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1901-find-a-peak-element-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1504-count-submatrices-with-all-ones](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1504-count-submatrices-with-all-ones) |
 | [3592-inverse-coin-change](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/3592-inverse-coin-change) |
 ## Math
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0240-search-a-2d-matrix-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1504-count-submatrices-with-all-ones](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1504-count-submatrices-with-all-ones) |
 | [1901-find-a-peak-element-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1901-find-a-peak-element-ii) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Binary Search
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0739-daily-temperatures) |
+| [1504-count-submatrices-with-all-ones](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1504-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0739-daily-temperatures) |
+| [1504-count-submatrices-with-all-ones](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1504-count-submatrices-with-all-ones) |
 ## Greedy
 |  |
 | ------- |
