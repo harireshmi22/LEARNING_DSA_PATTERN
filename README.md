@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0912-sort-an-array) |
 | [0931-minimum-falling-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0931-minimum-falling-path-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1002-find-common-characters) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1002-find-common-characters) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Matrix
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/3364-minimum-positive-sum-subarray) |
