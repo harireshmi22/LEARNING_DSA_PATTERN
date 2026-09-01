@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0069-sqrtx) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0326-power-of-three) |
@@ -418,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
