@@ -297,18 +297,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0307-range-sum-query-mutable) |
 | [0912-sort-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -430,8 +433,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0023-merge-k-sorted-lists) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0128-longest-consecutive-sequence) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
