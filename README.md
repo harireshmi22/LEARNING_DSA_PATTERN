@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0556-next-greater-element-iii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0556-next-greater-element-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3814-maximum-capacity-within-budget](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/3814-maximum-capacity-within-budget) |
 ## Simulation
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0025-reverse-nodes-in-k-group) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Union-Find
 |  |
 | ------- |
