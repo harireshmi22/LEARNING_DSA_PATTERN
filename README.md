@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0342-power-of-four) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0092-reverse-linked-list-ii) |
+| [0206-reverse-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0206-reverse-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Union-Find
 |  |
