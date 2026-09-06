@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0038-count-and-say) |
+| [0071-simplify-path](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0739-daily-temperatures) |
