@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0459-repeated-substring-pattern) |
 | [0556-next-greater-element-iii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0556-next-greater-element-iii) |
 | [1002-find-common-characters](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1002-find-common-characters) |
 | [1023-camelcase-matching](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1023-camelcase-matching) |
@@ -465,15 +466,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0459-repeated-substring-pattern) |
 | [1023-camelcase-matching](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1023-camelcase-matching) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
