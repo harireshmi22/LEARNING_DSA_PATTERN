@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0212-word-search-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0238-product-of-array-except-self) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0125-valid-palindrome) |
+| [0212-word-search-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0212-word-search-ii) |
 | [0344-reverse-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0459-repeated-substring-pattern) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0240-search-a-2d-matrix-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0090-subsets-ii) |
+| [0212-word-search-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0014-longest-common-prefix) |
+| [0212-word-search-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0212-word-search-ii) |
 | [1023-camelcase-matching](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1023-camelcase-matching) |
 ## String Matching
 |  |
