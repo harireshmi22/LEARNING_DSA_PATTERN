@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0212-word-search-ii) |
 | [0344-reverse-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0128-longest-consecutive-sequence) |
+| [0208-implement-trie-prefix-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0208-implement-trie-prefix-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0307-range-sum-query-mutable) |
 ## Binary Indexed Tree
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0212-word-search-ii) |
 | [1023-camelcase-matching](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1023-camelcase-matching) |
 ## String Matching
