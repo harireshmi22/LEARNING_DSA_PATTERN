@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0063-unique-paths-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0079-word-search) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0496-next-greater-element-i) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0032-longest-valid-parentheses) |
 ## Recursion
 |  |
 | ------- |
