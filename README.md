@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0206-reverse-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1721-swapping-nodes-in-a-linked-list) |
