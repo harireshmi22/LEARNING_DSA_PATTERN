@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0349-intersection-of-two-arrays) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0912-sort-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0912-sort-an-array) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0307-range-sum-query-mutable) |
 | [0912-sort-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0912-sort-an-array) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -489,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0237-delete-node-in-a-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1721-swapping-nodes-in-a-linked-list) |
