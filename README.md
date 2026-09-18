@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0119-pascals-triangle-ii) |
 | [0213-house-robber-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0213-house-robber-ii) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0216-combination-sum-iii) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0095-unique-binary-search-trees-ii) |
 | [0112-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -566,11 +569,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0095-unique-binary-search-trees-ii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0095-unique-binary-search-trees-ii) |
 | [0112-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0129-sum-root-to-leaf-numbers) |
