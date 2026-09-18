@@ -35,10 +35,10 @@ var numTrees = function (n) {
 
         let total = 0; 
 
-        for(let root = 1; root <= nodes; root++) {
+        for(let i = 1; i <= nodes; i++) {
             
-            const left = count(root - 1);
-            const right = count(nodes - root); 
+            const left = count(i - 1);
+            const right = count(nodes - i); 
 
             total += left * right;  
         }
