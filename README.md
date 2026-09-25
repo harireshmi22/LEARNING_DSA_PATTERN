@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0128-longest-consecutive-sequence) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0307-range-sum-query-mutable) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0113-path-sum-ii) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -617,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0113-path-sum-ii) |
