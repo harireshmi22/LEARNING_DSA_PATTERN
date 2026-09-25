@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0119-pascals-triangle-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0377-combination-sum-iv) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0257-binary-tree-paths) |
 ## Tree
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0700-search-in-a-binary-search-tree) |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0700-search-in-a-binary-search-tree) |
@@ -641,4 +645,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0141-linked-list-cycle) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
