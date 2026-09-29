@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0322-coin-change) |
+| [0662-maximum-width-of-binary-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0662-maximum-width-of-binary-tree) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0257-binary-tree-paths) |
+| [0662-maximum-width-of-binary-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0662-maximum-width-of-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0257-binary-tree-paths) |
+| [0662-maximum-width-of-binary-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0257-binary-tree-paths) |
+| [0662-maximum-width-of-binary-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0700-search-in-a-binary-search-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
