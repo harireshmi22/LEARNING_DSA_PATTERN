@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0403-frog-jump) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0509-fibonacci-number) |
@@ -500,15 +502,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0112-path-sum) |
+| [0279-perfect-squares](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0322-coin-change) |
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0518-coin-change-ii) |
 ## Manacher
