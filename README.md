@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0556-next-greater-element-iii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0556-next-greater-element-iii) |
+| [0876-middle-of-the-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0977-squares-of-a-sorted-array) |
 | [1023-camelcase-matching](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1023-camelcase-matching) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Union-Find
 |  |
