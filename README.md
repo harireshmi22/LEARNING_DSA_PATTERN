@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0739-daily-temperatures) |
 | [1504-count-submatrices-with-all-ones](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1504-count-submatrices-with-all-ones) |
+| [2487-remove-nodes-from-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0739-daily-temperatures) |
 | [1504-count-submatrices-with-all-ones](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1504-count-submatrices-with-all-ones) |
+| [2487-remove-nodes-from-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Union-Find
 |  |
