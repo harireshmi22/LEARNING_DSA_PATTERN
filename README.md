@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0326-power-of-three) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0876-middle-of-the-linked-list) |
