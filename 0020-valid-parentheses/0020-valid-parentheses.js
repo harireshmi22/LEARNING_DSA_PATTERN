@@ -2,23 +2,28 @@
  * @param {string} s
  * @return {boolean}
  */
-var isValid = function(s) {
-    let stack = [];
+var isValid = function (s) {
 
-    let map = {
-        ")":"(",
-        "]":"[",
-        "}":"{"
-    } 
+    const stack = [];
 
-    for(let char of s) {
-        if(char === "(" || char === "{" || char === "[") {
+    const map = {
+        ")": "(",
+        "}": "{",
+        "]": "["
+    }
+
+    for (let char of s) {
+        if (!map[char]) {
             stack.push(char);
         } else {
-            if(stack.pop() !== map[char]) return false; 
-        } 
-        
-    }  
+            if (stack.length === 0) return false;
+            let top = stack.pop();
+            if (top !== map[char]) {
+                return false;
+            }
 
-    return stack.length === 0; 
+        }
+    }
+
+    return stack.length === 0;
 };
