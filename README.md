@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2951-find-the-peaks](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2951-find-the-peaks) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/3364-minimum-positive-sum-subarray) |
 | [3592-inverse-coin-change](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/3592-inverse-coin-change) |
 | [3814-maximum-capacity-within-budget](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/3814-maximum-capacity-within-budget) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1002-find-common-characters) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
 | ------- |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Union-Find
 |  |
 | ------- |
