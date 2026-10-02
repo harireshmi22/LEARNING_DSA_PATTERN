@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0239-sliding-window-maximum) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0912-sort-an-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0912-sort-an-array) |
