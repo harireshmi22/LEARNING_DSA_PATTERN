@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0216-combination-sum-iii) |
+| [0219-contains-duplicate-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0240-search-a-2d-matrix-ii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0208-implement-trie-prefix-tree) |
+| [0219-contains-duplicate-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0643-maximum-average-subarray-i) |
