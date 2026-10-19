@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0118-pascals-triangle) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0208-implement-trie-prefix-tree) |
