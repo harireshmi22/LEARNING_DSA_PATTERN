@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0162-find-peak-element) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0322-coin-change) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0257-binary-tree-paths) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0217-contains-duplicate) |
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0509-fibonacci-number) |
 ## Longest Common Subsequence
 |  |
@@ -582,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0212-word-search-ii) |
 | [1023-camelcase-matching](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/1023-camelcase-matching) |
@@ -713,4 +719,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0543-diameter-of-binary-tree) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/harireshmi22/LEARNING_DSA_PATTERN/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
